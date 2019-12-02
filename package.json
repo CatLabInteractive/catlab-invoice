@@ -1,29 +1,29 @@
 {
-  "name": "invoiceplane",
+  "name": "catlab-invoice",
   "version": "2.0.0",
-  "description": "InvoicePlane is a self-hosted open source application for managing your invoices, clients and payments",
-  "homepage": "https://invoiceplane.com",
+  "description": "CatLab Invoice is a self-hosted open source application for managing your invoices, clients and payments",
+  "homepage": "https://github.com/CatLabInteractive/catlab-invoice",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/InvoicePlane/InvoicePlane.git"
+    "url": "git+https://github.com/CatLabInteractive/catlab-invoice"
   },
   "author": "InvoicePlane Developers & Contributors",
   "license": "MIT",
   "bugs": {
-    "url": "https://development.invoiceplane.com"
+    "url": "https://github.com/CatLabInteractive/catlab-invoice"
   },
   "devDependencies": {
-    "autoprefixer": "^8.5.1",
-    "grunt": "^1.0.2",
+    "autoprefixer": "^8.6.5",
+    "grunt": "^1.0.4",
     "grunt-contrib-clean": "^1.1.0",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-copy": "^1.0.0",
-    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-uglify": "^3.4.0",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-postcss": "^0.9.0",
     "grunt-sass": "^2.1.0",
     "load-grunt-tasks": "^4.0.0",
-    "postcss": "^6.0.22"
+    "postcss": "^6.0.23"
   },
   "dependencies": {
     "admin-lte": "2.3.11",
