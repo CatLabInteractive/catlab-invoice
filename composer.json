@@ -1,8 +1,8 @@
 {
-    "name": "invoiceplane",
+    "name": "catlab-invoice",
     "version": "2.0.0",
-    "description": "InvoicePlane is a self-hosted open source application for managing your invoices, clients and payments",
-    "homepage": "https://invoiceplane.com",
+    "description": "CatLab Invoice is a self-hosted open source application for managing your invoices, clients and payments",
+    "homepage": "https://github.com/CatLabInteractive/catlab-invoice",
     "license": "MIT",
     "type": "project",
     "require": {
